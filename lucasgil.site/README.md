@@ -1,2 +1,0 @@
-# lucasgil.site
-Meu portifólio.
